@@ -1,1 +1,1 @@
-# minifws
+# mini
